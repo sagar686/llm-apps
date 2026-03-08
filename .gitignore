@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/RAG/chat-with-pdf/.venv3.12
+/RAG/chat-with-pdf/tmp/chromadb
+/RAG/chat-with-pdf/__pycache__
